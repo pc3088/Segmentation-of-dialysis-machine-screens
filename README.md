@@ -1,4 +1,9 @@
-# perception project
+# Robot Perception project
+
+This project is done for the class ROB-GY-6203, Robot Perception course, NYU.
+
+Please find the report attached for detailed understanding of the project, and check out the presentation video for a brief understanding.
+
 Please find the datasets and the code used from this repository
 
 Since, datasets are large the drive links were given here, from which they can be downloaded:
