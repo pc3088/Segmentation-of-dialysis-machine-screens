@@ -2,7 +2,9 @@
 
 This project is done for the class ROB-GY-6203, Robot Perception course, NYU.
 
-Please find the report attached for detailed understanding of the project, and check out the presentation video for a brief understanding.
+Please refer to my [Portfolio for this project](https://spiffy-number-442.notion.site/Robotics-Engineering-Portfolio-632ef9567d1e4c0dbd8aad8733a57820?p=e8f737579fcf449dbf86a4deed9bbd43&pm=c) to get a brief understanding of this specific project. Please find the report attached for detailed understanding of the project.
+
+If you are interested to check out more of my projects, please visit my whole [Portfolio](https://spiffy-number-442.notion.site/Robotics-Engineering-Portfolio-632ef9567d1e4c0dbd8aad8733a57820). Please mail pc3088@nyu.edu if you have any more doubts. Thank you.
 
 Please find the datasets and the code used from this repository
 
